@@ -1,0 +1,55 @@
+body {
+    background-image: url("../Images/Repeat Grid 1.png");
+    font-size: 25px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#head {
+    font-size: 70px;
+}
+.smallText {
+    font-size: 25px;
+    color: white;
+    opacity: 0.7;
+}
+.tableBackground {
+    font-size: 25px;
+    background-color: #eff0f2;
+}
+.bigText{
+    font-size: 70px;
+    color: white;
+    opacity: 0.7;
+}
+.floatLeftImage{
+    float: left;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+.secondaryText{
+    font-size: 200%;
+    color: white;
+    opacity: 0.7;
+}
+.borderDefiner{
+    border: thin solid;
+    border-radius: 5px;
+    color: white;
+    opacity: 0.8;
+    alignment: center;
+}
+.specialCase{
+    border: thin solid;
+    border-radius: 5px;
+    color: black;
+    opacity: 0.8;
+    background: white;
+    alignment: center;
+}
+.tableOfCertificates{
+    font-size: 25px;
+    color: white;
+    opacity: 0.7;
+    border: wave white;
+}
